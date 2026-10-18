@@ -10,6 +10,13 @@
 - Sécurité mobile : installation et configuration de smartphones sous GrapheneOS pour des clients
 - Développement (1re année SLAM) : Java, C#, PHP, SQL, HTML / CSS
 
+### Pratique en cybersécurité : TryHackMe
+
+[![Profil TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MarwanGLT.png)](https://tryhackme.com/p/MarwanGLT)
+
+Inscrit depuis septembre 2026 : **19 salles terminées**, **top 30 %** des joueurs, ligue Silver.
+Salles suivies : réseaux (What is Networking?, Intro to LAN, Client-Server Basics), systèmes (Linux Fundamentals, Linux et Windows en ligne de commande, Operating System Security), virtualisation et cloud, sécurité offensive (Offensive Security Intro).
+
 ### Projets à voir
 
 | Projet | Domaine |
