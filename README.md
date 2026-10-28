@@ -1,14 +1,26 @@
 ## Marwan Goulit
 
 Étudiant en **BTS SIO option SISR** (systèmes, réseaux et cybersécurité) au lycée Henri Matisse de Cugnaux, près de Toulouse.
-**Je recherche une alternance en systèmes et réseaux pour l'année 2026-2027.**
+**Je recherche un stage ou une alternance en systèmes, réseaux ou cybersécurité pour l'année 2026-2027.**
+
+<p align="left">
+  <a href="https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf"><img src="https://img.shields.io/badge/VOIR_MON_CV-33ff66?style=for-the-badge" alt="Voir mon CV" height="40"></a>
+  <a href="https://marwanglt.github.io"><img src="https://img.shields.io/badge/MON_PORTFOLIO-0d0f0d?style=for-the-badge" alt="Mon portfolio" height="40"></a>
+</p>
 
 ### Ce que je fais
 
 - Réseau : adressage IPv4, sous-réseaux, routage statique, NAT / PAT, architectures LAN / WAN (Cisco Packet Tracer)
 - Systèmes et sécurité : journalisation centralisée sous Linux (rsyslog), recommandations ANSSI, RGPD, authentification et habilitations
+- Audits de sites internet : sécurité, performance et bonnes pratiques
 - Sécurité mobile : installation et configuration de smartphones sous GrapheneOS pour des clients
 - Développement (1re année SLAM) : Java, C#, PHP, SQL, HTML / CSS
+
+### Expériences
+
+- **Réparation de téléphones et d'électronique** — ma propre activité : smartphones, consoles PlayStation et PC
+- **Stage à La Vague Bleue (poissonnerie, Toulouse)** — mai à juin 2026 : création du site vitrine en HTML, CSS et JavaScript
+- **Audits de sites internet** — analyse des failles et des points faibles, puis propositions de corrections
 
 ### Pratique en cybersécurité : TryHackMe
 
@@ -28,4 +40,4 @@ Salles suivies : réseaux (What is Networking?, Intro to LAN, Client-Server Basi
 
 ### Me contacter
 
-marwangoulit@gmail.com · [marwanglt.github.io](https://marwanglt.github.io)
+marwangoulit@gmail.com · [marwanglt.github.io](https://marwanglt.github.io) · [📄 Mon CV](https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf)
