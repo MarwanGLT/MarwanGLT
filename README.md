@@ -4,7 +4,7 @@
 **Je recherche un stage ou une alternance en systèmes, réseaux ou cybersécurité pour l'année 2026-2027.**
 
 <p align="left">
-  <a href="https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf"><img src="https://img.shields.io/badge/VOIR_MON_CV-33ff66?style=for-the-badge" alt="Voir mon CV" height="40"></a>
+  <a href="https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf?v=20261028b"><img src="https://img.shields.io/badge/VOIR_MON_CV-33ff66?style=for-the-badge" alt="Voir mon CV" height="40"></a>
   <a href="https://marwanglt.github.io"><img src="https://img.shields.io/badge/MON_PORTFOLIO-0d0f0d?style=for-the-badge" alt="Mon portfolio" height="40"></a>
 </p>
 
@@ -40,4 +40,4 @@ Salles suivies : réseaux (What is Networking?, Intro to LAN, Client-Server Basi
 
 ### Me contacter
 
-marwangoulit@gmail.com · [marwanglt.github.io](https://marwanglt.github.io) · [📄 Mon CV](https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf)
+marwangoulit@gmail.com · [marwanglt.github.io](https://marwanglt.github.io) · [📄 Mon CV](https://marwanglt.github.io/CV_Marwan_Goulit_Stage_Cyber.pdf?v=20261028b)
